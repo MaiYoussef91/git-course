@@ -1,1 +1,2 @@
-this is a change from b1
+this is a file js
+this is a local change 
